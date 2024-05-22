@@ -141,7 +141,7 @@ global.loadDatabase = async function loadDatabase() {
         }
     }, 1 * 1000))
     if (global.db.data !== null) return
-    global.db.READ = true
+    global.db.READ = false
     await global.db.read().catch(console.error)
     global.db.READ = null
     global.db.data = {
