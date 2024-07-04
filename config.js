@@ -9,20 +9,20 @@ global.setting = {
  }
 
 global.owner = [
-['212717457920', 'Nour', true]
+['201028085788', 'Nour', true]
 ]
 
 global.info = {
- nomerbot: '212605784394',
- pairingNumber: '212693227969',
+ nomerbot: '201028085788',
+ pairingNumber: '201028085788',
  nameown: 'Nour',
- nomerown: '212717457920',
+ nomerown: '201028085788',
  packname: 'sticker by ',
- author: 'Noureddine',
- namebot: 'B O B I Z A 🌟',
- wm: 'B O B I Z A  -  BOT',
+ author: 'ELAKRAB ELYOTUBER ',
+ namebot: 'E L A K R E B🌟',
+ wm: 'E L A K R E B  -  BOT',
  stickpack: 'Whatsapp',
- stickauth: 'Bobiza - MD'
+ stickauth: 'E L A K R E B - MD'
 }
 
 // Thumbnail 
@@ -44,9 +44,9 @@ global.url = {
 
 // Sosmed
 global.url = {
- sig: 'https://instagram.com/noureddine_ouafy',
- sgh:  'https://github.com/noureddineouafy',
- sgc: 'https://chat.whatsapp.com/DABxracGsi5CQMd5d1N1j7'
+ sig: 'https://atom.bio/elakrabelyotyobr',
+ sgh:  'https://www.youtube.com/@Elakrab',
+ sgc: 'https://whatsapp.com/channel/0029VahbMZl4tRrkdpJrCv2f'
 }
 
 // Info Wait
